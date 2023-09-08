@@ -19,7 +19,17 @@ You can open the maven application in your favorite IDE
 
 Open a terminal and run `mvn clean install` to download the project dependencies.
 
-Then execute `mvn spring-boot:run` to deploy the API 
+## Usage
+
+Open a terminal and run `mvn spring-boot:run` to deploy the API.
+
+URI `http://localhost:8080/api/fibonacci/1`
+
+You can run it in a local  web browser or
+
+You can test it with Postman with a GET request
+
+
 
 
      
