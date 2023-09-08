@@ -34,6 +34,14 @@ You can run it in a local  web browser or
 
 You can test it with Postman with a GET request
 
+## Future improvements
+
+- Customize http error handling.
+
+- Implement unit testing and integration testing.
+
+- Implement authentication and authorization to protect the API.
+
 
 
 
