@@ -13,11 +13,13 @@ Download the source code
 
 Use one of the options provided by Github that is most appropriate for you options. 
 
-For example clone this repository using git command line git clone https://github.com/libianitas/FIBONACCI.git
+For example clone this repository using git command line `git clone https://github.com/libianitas/FIBONACCI.git`
 
 You can open the maven application in your favorite IDE 
-Open a terminal and execute 
-mvn spring-boot:run
+
+Open a terminal and run `mvn clean install` to download the project dependencies.
+
+Then execute `mvn spring-boot:run` to deploy the API 
 
 
      
